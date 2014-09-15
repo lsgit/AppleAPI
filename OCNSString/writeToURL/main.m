@@ -14,10 +14,15 @@ int main(int argc, const char * argv[])
 {
 
     @autoreleasepool {
+        NSString *path = @"Users/lanou3g/desktop/1";
+        NSURL *url = [NSURL fileURLWithPath:path];
+        NSString *s = @"hello";
+        NSLog(@"%@",s);
+        [s writeToURL:url atomically:YES encoding:NSASCIIStringEncoding error:nil];
         
-        // insert code here...
-        NSLog(@"Hello, World!");
-        
+//        NSString *ss = [NSString stringWithContentsOfFile:path encoding:NSUTF8StringEncoding error:nil];
+//        
+//        NSLog(@"%@",ss);
     }
     return 0;
 }
