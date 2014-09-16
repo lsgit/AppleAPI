@@ -9,6 +9,16 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
+		<key>appendFormat.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>51</integer>
+		</dict>
+		<key>appendString.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>50</integer>
+		</dict>
 		<key>boolValue.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -33,6 +43,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>19</integer>
+		</dict>
+		<key>deleteCharactersInRange.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>54</integer>
 		</dict>
 		<key>doubleValue.xcscheme</key>
 		<dict>
@@ -59,6 +74,11 @@
 			<key>orderHint</key>
 			<integer>11</integer>
 		</dict>
+		<key>initWithCapacity.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>49</integer>
+		</dict>
 		<key>initWithContentsOfFile.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -83,6 +103,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>15</integer>
+		</dict>
+		<key>insertString.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>53</integer>
 		</dict>
 		<key>intValue.xcscheme</key>
 		<dict>
@@ -123,6 +148,21 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>44</integer>
+		</dict>
+		<key>replaceCharactersInRange.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>55</integer>
+		</dict>
+		<key>replaceOccurrencesOfString.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>56</integer>
+		</dict>
+		<key>setString.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>52</integer>
 		</dict>
 		<key>string.xcscheme</key>
 		<dict>
@@ -173,6 +213,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>4</integer>
+		</dict>
+		<key>stringWithCapacity.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>48</integer>
 		</dict>
 		<key>stringWithContentsOfFile.xcscheme</key>
 		<dict>
@@ -232,6 +277,51 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>C21C4C1819C7BE16009586BA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C21C4C2819C7BE2E009586BA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C21C4C3819C7BE45009586BA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C21C4C4819C7BE62009586BA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C21C4C5819C7BE73009586BA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C21C4C6819C7BE80009586BA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C21C4C7819C7BE95009586BA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C21C4C8819C7BEB3009586BA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C21C4C9819C7BF06009586BA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>C2513C7719C67ADE005F8965</key>
 		<dict>
 			<key>primary</key>
