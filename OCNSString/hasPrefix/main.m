@@ -5,7 +5,7 @@
 //  Created by liushuai on 14-9-15.
 //  Copyright (c) 2014年 Liushuai. All rights reserved.
 //
-//  功能 查看字符串时候以某字母开头  查看字符串开头字母
+//  功能 查看字符串时候以某字母开头  查看字符串开头字符串 
 //  语法 - (BOOL)hasPrefix:(NSString *)aString;
 //  返回 是以astring开头返回YES 否则返回false
 #import <Foundation/Foundation.h>

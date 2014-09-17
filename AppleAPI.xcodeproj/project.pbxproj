@@ -335,6 +335,111 @@
 			remoteGlobalIDString = C2513FF219C6E74C005F8965;
 			remoteInfo = OCNSArray;
 		};
+		C29610BB19C9621C00AFCB90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C29610B719C9621B00AFCB90 /* OCDictionary.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C29610A619C9621B00AFCB90;
+			remoteInfo = OCDictionary;
+		};
+		C29610BF19C9621C00AFCB90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C251400319C6E74C005F8965 /* OCNSArray.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C251403A19C6E778005F8965;
+			remoteInfo = array;
+		};
+		C29610F719C9621C00AFCB90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C2513C8919C67ADE005F8965 /* OCNSString.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C21C4C1919C7BE16009586BA;
+			remoteInfo = stringWithCapacity;
+		};
+		C29610F919C9621C00AFCB90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C2513C8919C67ADE005F8965 /* OCNSString.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C21C4C2919C7BE2E009586BA;
+			remoteInfo = initWithCapacity;
+		};
+		C29610FB19C9621C00AFCB90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C2513C8919C67ADE005F8965 /* OCNSString.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C21C4C3919C7BE45009586BA;
+			remoteInfo = appendString;
+		};
+		C29610FD19C9621C00AFCB90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C2513C8919C67ADE005F8965 /* OCNSString.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C21C4C4919C7BE62009586BA;
+			remoteInfo = appendFormat;
+		};
+		C29610FF19C9621C00AFCB90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C2513C8919C67ADE005F8965 /* OCNSString.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C21C4C5919C7BE73009586BA;
+			remoteInfo = setString;
+		};
+		C296110119C9621C00AFCB90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C2513C8919C67ADE005F8965 /* OCNSString.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C21C4C6919C7BE81009586BA;
+			remoteInfo = insertString;
+		};
+		C296110319C9621C00AFCB90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C2513C8919C67ADE005F8965 /* OCNSString.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C21C4C7919C7BE95009586BA;
+			remoteInfo = deleteCharactersInRange;
+		};
+		C296110519C9621C00AFCB90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C2513C8919C67ADE005F8965 /* OCNSString.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C21C4C8919C7BEB3009586BA;
+			remoteInfo = replaceCharactersInRange;
+		};
+		C296110719C9621C00AFCB90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C2513C8919C67ADE005F8965 /* OCNSString.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C21C4C9919C7BF06009586BA;
+			remoteInfo = replaceOccurrencesOfString;
+		};
+		C296112719C9626400AFCB90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C296112319C9626300AFCB90 /* OCNSSet.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C296111219C9626300AFCB90;
+			remoteInfo = OCNSSet;
+		};
+		C296114719C963ED00AFCB90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C296114319C963EC00AFCB90 /* OCNSFile.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C296113219C963EC00AFCB90;
+			remoteInfo = OCNSFile;
+		};
+		C296116719C9642E00AFCB90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C296116319C9642E00AFCB90 /* OCNSDate.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C296115219C9642E00AFCB90;
+			remoteInfo = OCNSDate;
+		};
+		C296118719C9646700AFCB90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C296118319C9646600AFCB90 /* OCNSThread.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C296117219C9646600AFCB90;
+			remoteInfo = OCNSThread;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -358,6 +463,11 @@
 		C2513C6819C67A52005F8965 /* AppleAPI.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = AppleAPI.1; sourceTree = "<group>"; };
 		C2513C8919C67ADE005F8965 /* OCNSString.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = OCNSString.xcodeproj; path = OCNSString/OCNSString.xcodeproj; sourceTree = "<group>"; };
 		C251400319C6E74C005F8965 /* OCNSArray.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = OCNSArray.xcodeproj; path = OCNSArray/OCNSArray.xcodeproj; sourceTree = "<group>"; };
+		C29610B719C9621B00AFCB90 /* OCDictionary.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = OCDictionary.xcodeproj; path = OCDictionary/OCDictionary.xcodeproj; sourceTree = "<group>"; };
+		C296112319C9626300AFCB90 /* OCNSSet.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = OCNSSet.xcodeproj; path = OCNSSet/OCNSSet.xcodeproj; sourceTree = "<group>"; };
+		C296114319C963EC00AFCB90 /* OCNSFile.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = OCNSFile.xcodeproj; path = OCNSFile/OCNSFile.xcodeproj; sourceTree = "<group>"; };
+		C296116319C9642E00AFCB90 /* OCNSDate.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = OCNSDate.xcodeproj; path = OCNSDate/OCNSDate.xcodeproj; sourceTree = "<group>"; };
+		C296118319C9646600AFCB90 /* OCNSThread.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = OCNSThread.xcodeproj; path = OCNSThread/OCNSThread.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -375,6 +485,11 @@
 		C2513C5519C67A52005F8965 = {
 			isa = PBXGroup;
 			children = (
+				C296118319C9646600AFCB90 /* OCNSThread.xcodeproj */,
+				C296116319C9642E00AFCB90 /* OCNSDate.xcodeproj */,
+				C296114319C963EC00AFCB90 /* OCNSFile.xcodeproj */,
+				C296112319C9626300AFCB90 /* OCNSSet.xcodeproj */,
+				C29610B719C9621B00AFCB90 /* OCDictionary.xcodeproj */,
 				C251400319C6E74C005F8965 /* OCNSArray.xcodeproj */,
 				C2513C8919C67ADE005F8965 /* OCNSString.xcodeproj */,
 				C2513C6319C67A52005F8965 /* AppleAPI */,
@@ -465,6 +580,15 @@
 				C2513FE319C6E25F005F8965 /* stringByAppendingString */,
 				C2513FE519C6E25F005F8965 /* rangeOfString */,
 				C2513FE719C6E25F005F8965 /* stringByTrimmingCharactersInSet */,
+				C29610F819C9621C00AFCB90 /* stringWithCapacity */,
+				C29610FA19C9621C00AFCB90 /* initWithCapacity */,
+				C29610FC19C9621C00AFCB90 /* appendString */,
+				C29610FE19C9621C00AFCB90 /* appendFormat */,
+				C296110019C9621C00AFCB90 /* setString */,
+				C296110219C9621C00AFCB90 /* insertString */,
+				C296110419C9621C00AFCB90 /* deleteCharactersInRange */,
+				C296110619C9621C00AFCB90 /* replaceCharactersInRange */,
+				C296110819C9621C00AFCB90 /* replaceOccurrencesOfString */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -473,6 +597,47 @@
 			isa = PBXGroup;
 			children = (
 				C251400819C6E74D005F8965 /* OCNSArray */,
+				C29610C019C9621C00AFCB90 /* array */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C29610B819C9621B00AFCB90 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C29610BC19C9621C00AFCB90 /* OCDictionary */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C296112419C9626300AFCB90 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C296112819C9626400AFCB90 /* OCNSSet */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C296114419C963EC00AFCB90 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C296114819C963ED00AFCB90 /* OCNSFile */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C296116419C9642E00AFCB90 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C296116819C9642E00AFCB90 /* OCNSDate */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C296118419C9646600AFCB90 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C296118819C9646700AFCB90 /* OCNSThread */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -518,12 +683,32 @@
 			projectDirPath = "";
 			projectReferences = (
 				{
+					ProductGroup = C29610B819C9621B00AFCB90 /* Products */;
+					ProjectRef = C29610B719C9621B00AFCB90 /* OCDictionary.xcodeproj */;
+				},
+				{
 					ProductGroup = C251400419C6E74C005F8965 /* Products */;
 					ProjectRef = C251400319C6E74C005F8965 /* OCNSArray.xcodeproj */;
 				},
 				{
+					ProductGroup = C296116419C9642E00AFCB90 /* Products */;
+					ProjectRef = C296116319C9642E00AFCB90 /* OCNSDate.xcodeproj */;
+				},
+				{
+					ProductGroup = C296114419C963EC00AFCB90 /* Products */;
+					ProjectRef = C296114319C963EC00AFCB90 /* OCNSFile.xcodeproj */;
+				},
+				{
+					ProductGroup = C296112419C9626300AFCB90 /* Products */;
+					ProjectRef = C296112319C9626300AFCB90 /* OCNSSet.xcodeproj */;
+				},
+				{
 					ProductGroup = C2513C8A19C67ADE005F8965 /* Products */;
 					ProjectRef = C2513C8919C67ADE005F8965 /* OCNSString.xcodeproj */;
+				},
+				{
+					ProductGroup = C296118419C9646600AFCB90 /* Products */;
+					ProjectRef = C296118319C9646600AFCB90 /* OCNSThread.xcodeproj */;
 				},
 			);
 			projectRoot = "";
@@ -854,6 +1039,111 @@
 			fileType = "compiled.mach-o.executable";
 			path = OCNSArray;
 			remoteRef = C251400719C6E74D005F8965 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C29610BC19C9621C00AFCB90 /* OCDictionary */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = OCDictionary;
+			remoteRef = C29610BB19C9621C00AFCB90 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C29610C019C9621C00AFCB90 /* array */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = array;
+			remoteRef = C29610BF19C9621C00AFCB90 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C29610F819C9621C00AFCB90 /* stringWithCapacity */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = stringWithCapacity;
+			remoteRef = C29610F719C9621C00AFCB90 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C29610FA19C9621C00AFCB90 /* initWithCapacity */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = initWithCapacity;
+			remoteRef = C29610F919C9621C00AFCB90 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C29610FC19C9621C00AFCB90 /* appendString */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = appendString;
+			remoteRef = C29610FB19C9621C00AFCB90 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C29610FE19C9621C00AFCB90 /* appendFormat */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = appendFormat;
+			remoteRef = C29610FD19C9621C00AFCB90 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C296110019C9621C00AFCB90 /* setString */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = setString;
+			remoteRef = C29610FF19C9621C00AFCB90 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C296110219C9621C00AFCB90 /* insertString */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = insertString;
+			remoteRef = C296110119C9621C00AFCB90 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C296110419C9621C00AFCB90 /* deleteCharactersInRange */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = deleteCharactersInRange;
+			remoteRef = C296110319C9621C00AFCB90 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C296110619C9621C00AFCB90 /* replaceCharactersInRange */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = replaceCharactersInRange;
+			remoteRef = C296110519C9621C00AFCB90 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C296110819C9621C00AFCB90 /* replaceOccurrencesOfString */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = replaceOccurrencesOfString;
+			remoteRef = C296110719C9621C00AFCB90 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C296112819C9626400AFCB90 /* OCNSSet */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = OCNSSet;
+			remoteRef = C296112719C9626400AFCB90 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C296114819C963ED00AFCB90 /* OCNSFile */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = OCNSFile;
+			remoteRef = C296114719C963ED00AFCB90 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C296116819C9642E00AFCB90 /* OCNSDate */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = OCNSDate;
+			remoteRef = C296116719C9642E00AFCB90 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C296118819C9646700AFCB90 /* OCNSThread */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = OCNSThread;
+			remoteRef = C296118719C9646700AFCB90 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 /* End PBXReferenceProxy section */
