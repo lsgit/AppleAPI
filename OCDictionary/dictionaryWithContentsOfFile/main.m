@@ -12,9 +12,9 @@ int main(int argc, const char * argv[])
 {
 
     @autoreleasepool {
-        // insert code here...
-        NSLog(@"Hello, World!");
-        
+        NSString *path = @"/Users/lanou3g/Desktop/dict.plist";
+        NSDictionary *dict = [NSDictionary dictionaryWithContentsOfFile:path];
+        NSLog(@"%@",dict);
     }
     return 0;
 }
